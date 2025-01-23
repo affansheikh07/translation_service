@@ -39,3 +39,6 @@ The API implements custom **error handling** in controllers. This ensures meanin
 - Laravel >= 9.0
 - MySQL
 - Redis
+
+### Tests
+Run test by using php artisan test.
